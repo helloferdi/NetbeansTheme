@@ -8,5 +8,5 @@ The original theme was put together for the following languages: Ruby, XML, C, J
 **Unfortunately, at this time, you will have to install both themes (the original is an .nbm).**
 The new theme is dependant on the original, which I'll hopefully figure out how to fix sometime. No really, that's not going to happen. So just install both. One cannot have too many themes.
 
-Ruby on Mac: http://github.com/frbi/NetbeansTheme/raw/master/ruby.png
-HTML on PC: http://github.com/frbi/NetbeansTheme/raw/master/html.png
+* Ruby on Mac: http://github.com/frbi/NetbeansTheme/raw/master/ruby.png
+* HTML on PC: http://github.com/frbi/NetbeansTheme/raw/master/html.png
