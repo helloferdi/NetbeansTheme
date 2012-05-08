@@ -5,4 +5,6 @@ Netbeans theme based on Aloha by Mike McKinney [blog.huikau.com...](http://blog.
 
 The original theme was put together for the following languages: Ruby, XML, C, Java, JavaScript and CSS. I've optimised my colour schemes primarily for Ruby, PHP, HTML, CSS and JavaScript.
 
+**Unfortunately, at this time, you will have to install both themes (the original is an .nbm), as the new theme is dependant on the original**
+
 Screenshot: http://github.com/frbi/NetbeansTheme/raw/master/ruby.png
